@@ -36,7 +36,7 @@ theme = "ananke"
 [menu]
   [[menu.nav]]
   name = "Home"
-  url = "/"
+  url = "https://liverecipes.vercel.app/"
   weight = 1
 
 [author]
